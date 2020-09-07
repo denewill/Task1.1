@@ -1,0 +1,9 @@
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\TASK1POINT1\bin\Debug\TASK1POINT1.exe.config
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\TASK1POINT1\bin\Debug\TASK1POINT1.exe
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\TASK1POINT1\bin\Debug\TASK1POINT1.pdb
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\TASK1POINT1\obj\Debug\TASK1POINT1.Display.resources
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\TASK1POINT1\obj\Debug\TASK1POINT1.Properties.Resources.resources
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\TASK1POINT1\obj\Debug\TASK1POINT1.csproj.GenerateResource.cache
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\TASK1POINT1\obj\Debug\TASK1POINT1.csproj.CoreCompileInputs.cache
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\TASK1POINT1\obj\Debug\TASK1POINT1.exe
+F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\TASK1POINT1\obj\Debug\TASK1POINT1.pdb

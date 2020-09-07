@@ -1,0 +1,15 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\obj\Debug\filemap.pri"			"resources.pri"
+"F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\obj\Debug\PackageLayout\WinMetadata\Windows.winmd"			"WinMetadata\Windows.winmd"
+"F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\obj\Debug\PackageLayout\TASK1POINT1\TASK1POINT1.exe.config"			"TASK1POINT1\TASK1POINT1.exe.config"
+"F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\obj\Debug\PackageLayout\TASK1POINT1\TASK1POINT1.exe"			"TASK1POINT1\TASK1POINT1.exe"
+"F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\obj\Debug\PackageLayout\Images\Wide310x150Logo.scale-200.png"			"Images\Wide310x150Logo.scale-200.png"
+"F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\obj\Debug\PackageLayout\Images\StoreLogo.png"			"Images\StoreLogo.png"
+"F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\obj\Debug\PackageLayout\Images\Square44x44Logo.targetsize-24_altform-unplated.png"			"Images\Square44x44Logo.targetsize-24_altform-unplated.png"
+"F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\obj\Debug\PackageLayout\Images\Square44x44Logo.scale-200.png"			"Images\Square44x44Logo.scale-200.png"
+"F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\obj\Debug\PackageLayout\Images\Square150x150Logo.scale-200.png"			"Images\Square150x150Logo.scale-200.png"
+"F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\obj\Debug\PackageLayout\Images\LockScreenLogo.scale-200.png"			"Images\LockScreenLogo.scale-200.png"

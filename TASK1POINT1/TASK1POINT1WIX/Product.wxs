@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="TASK1POINT1WIX" Language="1033" Version="1.0.0.0" Manufacturer="MICHELLE CHUWINDRA" UpgradeCode="49b91869-ed01-425d-b7b2-9dd388f3ee76">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes"/>
+
+		<Feature Id="ProductFeature" Title="TASK1POINT1WIX" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="TASK1POINT1WIX" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<Component Id="TASK1POINT1.exe" Guid ="BB163E21-7C5D-4345-8A7C-473464464AB5">
+        <File Id="TASK1POINT1.exe" Name="TASK1POINT1.exe" Source="$(var.TASK1POINT1.TargetDir)TASK1POINT1.exe"></File>
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

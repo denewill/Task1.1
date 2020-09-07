@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MICHU</Machine>
+    <WindowsUser>USER</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>eac2cf6b-9150-4754-b2be-d9271a981528</PackageIdentityName>
+    <PackageIdentityPublisher>CN=USER</PackageIdentityPublisher>
+    <IntermediateOutputPath>F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\bin\AnyCPU\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\bin\AnyCPU\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\PACKAGINGPROJECTTASK1POINT1\bin\AnyCPU\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\TASK1POINT1\bin\Debug\TASK1POINT1.exe">
+      <PackagePath>TASK1POINT1\TASK1POINT1.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Uni\SEM 7\SWE30004\Assignments\Task 1\Task1.1\TASK1POINT1\TASK1POINT1\bin\Debug\TASK1POINT1.exe.config">
+      <PackagePath>TASK1POINT1\TASK1POINT1.exe.config</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
